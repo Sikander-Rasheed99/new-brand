@@ -1,0 +1,14 @@
+.bannerSec {
+    background-image: url(../public/images/ecommerceimages/banner.png);
+    padding-top: 200px;
+    margin-top: -100px;
+}
+
+
+/* media query */
+
+@media only screen and (max-width:991px) {
+    .bannerSec {
+        padding-top: 100px;
+    }
+}

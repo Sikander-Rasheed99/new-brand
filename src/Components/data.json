@@ -1,0 +1,242 @@
+[
+    {
+        "id": 0,
+        "label": "Basic",
+        "packages": [
+            {
+                "id": 0,
+                "discountedPrice": "$244",
+                "originalPrice": "$488",
+                "list": [
+                    "E-Commerce Website Design and Development",
+                    "Theme Based Design",
+                    "Sliding Banner",
+                    "3 Stock Photos",
+                    "06 Revisions",
+                    "Hover Effects",
+                    "Up to 10 Products",
+                    "Up to 3 Categories",
+                    "Content/Inventory Management System",
+                    "Easy Product Search Bar",
+                    "Shopping Cart Integration",
+                    "Payment Module Integration",
+                    "Direct Checkout",
+                    "Sign up Checkout",
+                    "Tax calculator Integration",
+                    "Shipping calculator Integration",
+                    "Wishlist",
+                    "Complete W3C Validation",
+                    "Dedicated Team of Designers and Developers",
+                    "Complete Deployment",
+                    "– Value Added Services",
+                    "Complete Source Files",
+                    "Dedicated Project Manager",
+                    "100% Satisfaction Guarantee",
+                    "100% Money Back Guarantee",
+                    "*NO MONTHLY OR ANY HIDDEN FEE*"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "label": "Startup",
+        "packages": [
+            {
+                "id": 0,
+                "name": "Startup",
+                "discountedPrice": "$394",
+                "originalPrice": "$788",
+                "list": [
+                    "E-Commerce Website Design and Development",
+                    "Theme Based Design",
+                    "Sliding Banner",
+                    "3 Stock Photos",
+                    "06 Revisions",
+                    "Hover Effects",
+                    "Up to 10 Products",
+                    "Up to 3 Categories",
+                    "Content/Inventory Management System",
+                    "Easy Product Search Bar",
+                    "Shopping Cart Integration",
+                    "Payment Module Integration",
+                    "Direct Checkout",
+                    "Sign up Checkout",
+                    "Tax calculator Integration",
+                    "Shipping calculator Integration",
+                    "Wishlist",
+                    "Complete W3C Validation",
+                    "Dedicated Team of Designers and Developers",
+                    "Complete Deployment",
+                    "– Value Added Services",
+                    "Complete Source Files",
+                    "Dedicated Project Manager",
+                    "100% Satisfaction Guarantee",
+                    "100% Money Back Guarantee",
+                    "*NO MONTHLY OR ANY HIDDEN FEE*"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "label": "Professional",
+        "packages": [
+            {
+                "id": 0,
+                "name": "Professional",
+                "discountedPrice": "$394",
+                "originalPrice": "$788",
+                "list": [
+                    "E-Commerce Website Design and Development",
+                    "Theme Based Design",
+                    "Sliding Banner",
+                    "3 Stock Photos",
+                    "06 Revisions",
+                    "Hover Effects",
+                    "Up to 10 Products",
+                    "Up to 3 Categories",
+                    "Content/Inventory Management System",
+                    "Easy Product Search Bar",
+                    "Shopping Cart Integration",
+                    "Payment Module Integration",
+                    "Direct Checkout",
+                    "Sign up Checkout",
+                    "Tax calculator Integration",
+                    "Shipping calculator Integration",
+                    "Wishlist",
+                    "Complete W3C Validation",
+                    "Dedicated Team of Designers and Developers",
+                    "Complete Deployment",
+                    "– Value Added Services",
+                    "Complete Source Files",
+                    "Dedicated Project Manager",
+                    "100% Satisfaction Guarantee",
+                    "100% Money Back Guarantee",
+                    "*NO MONTHLY OR ANY HIDDEN FEE*"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "label": "Identity",
+        "packages": [
+            {
+                "id": 0,
+                "name": "Identity",
+                "discountedPrice": "$1499",
+                "originalPrice": "$2500",
+                "list": [
+                    "E-Commerce Website Design and Development",
+                    "Theme Based Design",
+                    "Sliding Banner",
+                    "3 Stock Photos",
+                    "06 Revisions",
+                    "Hover Effects",
+                    "Up to 10 Products",
+                    "Up to 3 Categories",
+                    "Content/Inventory Management System",
+                    "Easy Product Search Bar",
+                    "Shopping Cart Integration",
+                    "Payment Module Integration",
+                    "Direct Checkout",
+                    "Sign up Checkout",
+                    "Tax calculator Integration",
+                    "Shipping calculator Integration",
+                    "Wishlist",
+                    "Complete W3C Validation",
+                    "Dedicated Team of Designers and Developers",
+                    "Complete Deployment",
+                    "– Value Added Services",
+                    "Complete Source Files",
+                    "Dedicated Project Manager",
+                    "100% Satisfaction Guarantee",
+                    "100% Money Back Guarantee",
+                    "*NO MONTHLY OR ANY HIDDEN FEE*"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "label": "Identity",
+        "packages": [
+            {
+                "id": 0,
+                "name": "Identity",
+                "discountedPrice": "$2500",
+                "originalPrice": "$1499",
+                "list": [
+                    "E-Commerce Website Design and Development",
+                    "Theme Based Design",
+                    "Sliding Banner",
+                    "3 Stock Photos",
+                    "06 Revisions",
+                    "Hover Effects",
+                    "Up to 10 Products",
+                    "Up to 3 Categories",
+                    "Content/Inventory Management System",
+                    "Easy Product Search Bar",
+                    "Shopping Cart Integration",
+                    "Payment Module Integration",
+                    "Direct Checkout",
+                    "Sign up Checkout",
+                    "Tax calculator Integration",
+                    "Shipping calculator Integration",
+                    "Wishlist",
+                    "Complete W3C Validation",
+                    "Dedicated Team of Designers and Developers",
+                    "Complete Deployment",
+                    "– Value Added Services",
+                    "Complete Source Files",
+                    "Dedicated Project Manager",
+                    "100% Satisfaction Guarantee",
+                    "100% Money Back Guarantee",
+                    "*NO MONTHLY OR ANY HIDDEN FEE*"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "label": "Elite",
+        "packages": [
+            {
+                "id": 0,
+                "name": "Elite",
+                "discountedPrice": "$1999",
+                "originalPrice": "$3000",
+                "note": "FIRST MONTH TOTAL PAYMENT $3,500 (3 MONTHS PLAN) $1,500 (ON-GOING MONTHLY PAYMENT)",
+                "list": [
+                    "E-Commerce Website Design and Development",
+                    "Theme Based Design",
+                    "Sliding Banner",
+                    "3 Stock Photos",
+                    "06 Revisions",
+                    "Hover Effects",
+                    "Up to 10 Products",
+                    "Up to 3 Categories",
+                    "Content/Inventory Management System",
+                    "Easy Product Search Bar",
+                    "Shopping Cart Integration",
+                    "Payment Module Integration",
+                    "Direct Checkout",
+                    "Sign up Checkout",
+                    "Tax calculator Integration",
+                    "Shipping calculator Integration",
+                    "Wishlist",
+                    "Complete W3C Validation",
+                    "Dedicated Team of Designers and Developers",
+                    "Complete Deployment",
+                    "– Value Added Services",
+                    "Complete Source Files",
+                    "Dedicated Project Manager",
+                    "100% Satisfaction Guarantee",
+                    "100% Money Back Guarantee",
+                    "*NO MONTHLY OR ANY HIDDEN FEE*"
+                ]
+            }
+        ]
+    }
+]
